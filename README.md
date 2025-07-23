@@ -1,4 +1,4 @@
-# IRBasics-VectorSpaceProximity-workshop
+# ProbabilisticLanguageModels
 
 # Team 6
 
