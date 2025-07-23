@@ -9,8 +9,6 @@ Results:
   MAE: 7.28  
   RMSE: 9.2  
   R2 Score: 0.84  
-Shortened Prompt: Optimize AI energy usage with minimal latency.  
-References: http://white.biz/, http://cobb.biz/  
 --------------------------------------------------------------------------------
 
 Title: Teach develop staff  
@@ -19,13 +17,7 @@ Description: Figure somebody dinner age cover foreign. Whom evidence political h
 Methodology:  
   Techniques: XGBoost, LSTM  
   Frameworks: Keras, TensorFlow  
-  Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 6.35  
-  RMSE: 8.21  
-  R2 Score: 0.91  
-Shortened Prompt: Predict energy use based on weather and load data.  
-References: https://rush.org/, https://www.mccullough.com/  
+  Input Features: temperature, humidity, load, occupancy, hour_of_day   
 --------------------------------------------------------------------------------
 
 Title: Recent never court professor here security  
@@ -34,13 +26,7 @@ Description: Notice image street fight decision size parent focus. Kind degree l
 Methodology:  
   Techniques: Transformer, AutoML  
   Frameworks: TensorFlow, Optuna  
-  Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 5.31  
-  RMSE: 5.62  
-  R2 Score: 0.96  
-Shortened Prompt: Shorten prompt for energy forecast without accuracy loss.  
-References: https://www.perry-soto.com/, https://sanchez-douglas.com/  
+  Input Features: temperature, humidity, load, occupancy, hour_of_day      
 --------------------------------------------------------------------------------
 
 Title: Sing despite sound receive  
@@ -50,12 +36,6 @@ Methodology:
   Techniques: AutoML, LSTM  
   Frameworks: Scikit-learn, TensorFlow  
   Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 7.11  
-  RMSE: 8.83  
-  R2 Score: 0.84  
-Shortened Prompt: Predict energy use based on weather and load data.  
-References: http://hernandez.com/, https://clark.biz/  
 --------------------------------------------------------------------------------
 
 Title: Watch affect thing offer local wall fear hope  
@@ -65,12 +45,6 @@ Methodology:
   Techniques: Transformer, AutoML  
   Frameworks: Keras, TensorFlow  
   Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 6.28  
-  RMSE: 6.37  
-  R2 Score: 0.96  
-Shortened Prompt: Optimize AI energy usage with minimal latency.  
-References: http://www.walker-jones.com/, http://www.combs.com/  
 --------------------------------------------------------------------------------
 
 Title: Call prove nor design record  
@@ -79,13 +53,7 @@ Description: Paper white responsibility sing. Who blue agent find. However resou
 Methodology:  
   Techniques: LSTM, XGBoost  
   Frameworks: TensorFlow, Hugging Face  
-  Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 5.69  
-  RMSE: 8.48  
-  R2 Score: 0.85  
-Shortened Prompt: Shorten prompt for energy forecast without accuracy loss.  
-References: https://www.yu-reid.info/, http://gross.com/  
+  Input Features: temperature, humidity, load, occupancy, hour_of_day   
 --------------------------------------------------------------------------------
 
 Title: Space Mrs low itself room environmental system store  
@@ -94,13 +62,7 @@ Description: Think during let particular her. Management foot maintain. Somethin
 Methodology:  
   Techniques: LSTM, XGBoost  
   Frameworks: TensorFlow, Hugging Face  
-  Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 5.47  
-  RMSE: 8.53  
-  R2 Score: 0.95  
-Shortened Prompt: Forecast next hour's power consumption using smart meter data.  
-References: http://www.cortez.net/, http://joseph.com/  
+  Input Features: temperature, humidity, load, occupancy, hour_of_day 
 --------------------------------------------------------------------------------
 
 Title: Identify during professional hard network  
@@ -109,13 +71,7 @@ Description: You nearly goal law fill discover. Firm sea week real course. Every
 Methodology:  
   Techniques: Bayesian Optimization, AutoML  
   Frameworks: PyTorch, Hugging Face  
-  Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 3.32  
-  RMSE: 6.29  
-  R2 Score: 0.98  
-Shortened Prompt: Shorten prompt for energy forecast without accuracy loss.  
-References: https://alexander-lopez.com/, https://short.info/  
+  Input Features: temperature, humidity, load, occupancy, hour_of_day
 --------------------------------------------------------------------------------
 
 Title: Officer rather charge specific  
@@ -124,13 +80,7 @@ Description: Yes budget share paper. Difficult mission late kind team wrong figu
 Methodology:  
   Techniques: Transformer, Random Forest  
   Frameworks: Optuna, Scikit-learn  
-  Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 6.41  
-  RMSE: 7.22  
-  R2 Score: 0.81  
-Shortened Prompt: Estimate energy demand using occupancy and temperature.  
-References: http://campbell.com/, https://www.wilson-walker.com/  
+  Input Features: temperature, humidity, load, occupancy, hour_of_day
 --------------------------------------------------------------------------------
 
 Title: Step author coach film see  
@@ -139,13 +89,7 @@ Description: Keep light fight I evening. Management ball always it focus economy
 Methodology:  
   Techniques: LSTM, Gradient Boosting  
   Frameworks: TensorFlow, PyTorch  
-  Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 3.02  
-  RMSE: 8.33  
-  R2 Score: 0.92  
-Shortened Prompt: Shorten prompt for energy forecast without accuracy loss.  
-References: https://www.booth.net/, https://ramos.com/  
+  Input Features: temperature, humidity, load, occupancy, hour_of_day
 --------------------------------------------------------------------------------
 
 Title: Just recognize building win participant  
@@ -154,13 +98,7 @@ Description: Financial add impact different. Left brother strategy marriage. Mee
 Methodology:  
   Techniques: Transformer, Random Forest  
   Frameworks: Optuna, Keras  
-  Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 7.21  
-  RMSE: 7.05  
-  R2 Score: 0.8  
-Shortened Prompt: Estimate energy demand using occupancy and temperature.  
-References: https://adams.org/, https://www.ryan-reed.net/  
+  Input Features: temperature, humidity, load, occupancy, hour_of_day
 --------------------------------------------------------------------------------
 
 Title: Help usually thank wonder draw him task  
@@ -169,13 +107,7 @@ Description: Fish list tree. History professional star wonder manager already. W
 Methodology:  
   Techniques: Transformer, Bayesian Optimization  
   Frameworks: Scikit-learn, Hugging Face  
-  Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 4.62  
-  RMSE: 4.12  
-  R2 Score: 0.96  
-Shortened Prompt: Estimate energy demand using occupancy and temperature.  
-References: https://higgins.com/, http://www.cohen.com/  
+  Input Features: temperature, humidity, load, occupancy, hour_of_day
 --------------------------------------------------------------------------------
 
 Title: Within set region beyond coach federal  
@@ -185,12 +117,6 @@ Methodology:
   Techniques: Random Forest, XGBoost  
   Frameworks: Hugging Face, Scikit-learn  
   Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 3.43  
-  RMSE: 6.92  
-  R2 Score: 0.77  
-Shortened Prompt: Shorten prompt for energy forecast without accuracy loss.  
-References: https://www.santana-byrd.com/, http://huerta-evans.biz/  
 --------------------------------------------------------------------------------
 
 Title: Lead few yourself table blood  
@@ -199,11 +125,5 @@ Description: Grow fast recognize against stop how account. Treat seat strategy. 
 Methodology:  
   Techniques: XGBoost, AutoML  
   Frameworks: PyTorch, Hugging Face  
-  Input Features: temperature, humidity, load, occupancy, hour_of_day  
-Results:  
-  MAE: 3.83  
-  RMSE: 7.17  
-  R2 Score: 0.89  
-Shortened Prompt: Forecast next hour's power consumption using smart meter data.  
-References: http://www.buchanan.net/, https://www.sloan-raymond.com/  
+  Input Features: temperature, humidity, load, occupancy, hour_of_day 
 --------------------------------------------------------------------------------
